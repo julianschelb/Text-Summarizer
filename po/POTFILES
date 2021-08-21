@@ -1,0 +1,7 @@
+data/com.schelb.summarizing.desktop.in
+data/com.schelb.summarizing.appdata.xml.in
+data/com.schelb.summarizing.gschema.xml
+src/window.ui
+src/main.py
+src/window.py
+

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=summarizing_text
+Exec=summarizing_text
+Icon=com.schelb.summarizing
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true
